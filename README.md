@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **@Superchat**
 
-- 🌱 I’m currently learning **Go, NextJS**
-
 - 📫 How to reach me **miguelromero717@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/migromero/](https://www.linkedin.com/in/migromero/)
