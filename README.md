@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
-<h3 align="center">Software Engineer from Colombia living in Berlín</h3>
-
-- 🔭 I’m currently working on **@Superchat**
+<h3 align="center">Software Engineer from Colombia</h3>
 
 - 📫 How to reach me **miguelromero717@gmail.com**
 
